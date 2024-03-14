@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "fortran-lang.linter-gfortran",
+        "github.copilot-chat",
+        "github.copilot"
+    ]
+}
